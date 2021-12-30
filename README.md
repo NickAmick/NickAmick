@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NickAmick
+- 👀 I’m interested in Java, JavaScript, SQL and everything tech!
+- 🌱 I’m currently learning AWS, Python and clean code principles.
+- 💞️ I’m looking to collaborate on anything that you can pitch me on!
+- 📫 NickAmick614@gmail.com
